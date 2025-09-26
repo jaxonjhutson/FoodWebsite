@@ -1,0 +1,40 @@
+body {
+    border-style: solid;
+    height: fit-content;
+    width: fit-content;
+}
+
+header{
+    border-style: solid;
+    border-color: purple;
+    width: 1000px;
+    height: 100px;
+}
+
+nav {
+    border-style: solid;
+    border-color: red;
+    width: 1000px;
+    height: 25px;
+}
+
+article {
+    border-style: solid;
+    border-color: blue;
+    width: 850px;
+    height: 1000px;
+    float: right;
+}
+
+aside {
+    border-style: solid;
+    border-color: lightgreen;
+    width: 148px;
+    height: 1000px;
+}
+
+footer {
+    border-style: solid;
+    border-color: yellow;
+}
+
