@@ -61,6 +61,15 @@ a {
     text-decoration: none;
 }
 
+.purityimg {
+    float: left;
+}
+
+.regimg {
+    float: left;
+    margin: 10px;
+}
+
 .navlink {
     margin-top: 2px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -76,6 +85,10 @@ a {
 
 .arthead {
     margin: 5px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    font-size: 25pt;
 }
 
 .generaltxt {
