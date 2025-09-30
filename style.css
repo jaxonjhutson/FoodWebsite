@@ -1,40 +1,86 @@
 body {
-    border-style: solid;
+    border-style: hidden;
     height: fit-content;
     width: fit-content;
+    background-color: #666666;
 }
 
 header{
     border-style: solid;
-    border-color: purple;
-    width: 1000px;
+    border-color: #000066;
+    width: 1010px;
     height: 100px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #666699;
+    border-radius: 5px;
 }
 
 nav {
-    border-style: solid;
-    border-color: red;
+    border-style: groove;
+    border-color: #ffffff;
     width: 1000px;
     height: 25px;
+    padding: 5px;
+    background-color: #303030;
+    border-radius: 10px;
+    text-align: center;
 }
 
 article {
     border-style: solid;
-    border-color: blue;
+    border-color: #000066;
     width: 850px;
-    height: 1000px;
+    height: 990px;
     float: right;
+    padding: 5px;
+    background-color: #303030;
+    color:#ffffff;
 }
 
 aside {
     border-style: solid;
-    border-color: lightgreen;
-    width: 148px;
-    height: 1000px;
+    border-color: #000066;
+    width: 140px;
+    height: 990px;
+    padding: 5px;
+    background-color: #666699;
+    color: #ffffff;
+    font-size: 10pt;
 }
 
 footer {
     border-style: solid;
-    border-color: yellow;
+    border-color: #666666;
+    background-color: #666666;
+}
+
+a {
+    color: #ffffff;
+    font-size: 15pt;
+    text-decoration: none;
+}
+
+.navlink {
+    margin-top: 2px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    font-size: 15pt;  
+}
+
+.disclaim {
+    margin-top: 0px;
+    font-size: 7pt;
+    font-weight: bold;
+}
+
+.arthead {
+    margin: 5px;
+}
+
+.generaltxt {
+    margin: 3px;
+    text-align: left;
+    font-family:'Courier New', Courier, monospace;
 }
 
