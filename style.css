@@ -26,6 +26,7 @@ nav {
     background-color: #303030;
     border-radius: 10px;
     text-align: center;
+    color: #ffffff;
 }
 
 article {
@@ -92,7 +93,6 @@ a:active {
 .navlink {
     margin-top: 2px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #ffffff;
     font-size: 15pt;  
 }
 
